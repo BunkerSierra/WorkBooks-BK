@@ -3,7 +3,26 @@
 Indice
 ===
 
+- [Diagramas Electricos](#Diagramas-Electricos)
+  
+  - [Diagrama 1](#Diagrama-1)
+  - [Diagrama 2](#Diagrama-2)
+  - [Diagrama 3](#Diagrama-3)
+  - [Diagrama 4](#Diagrama-4)
+  - [Diagrama 5](#Diagrama-5)
+  - [Diagrama 6](#Diagrama-6)
+  - [Diagrama 7](#Diagrama-7)
+  - [Diagrama 8](#Diagrama-8)
+  - [Diagrama 9](#Diagrama-9)
+  - [Diagrama 10](#Diagrama-10)
 
+ - [Codigos](#Codigos)
+  
+  - [Practica 1: Encender y Apagar LED](#Practica-1:-Encender-y-Apagar-LED)
+  - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2:-Encender-y-Apagar-7-LEDs)
+
+
+# Diagramas Electricos
 
 # Codigos
 
