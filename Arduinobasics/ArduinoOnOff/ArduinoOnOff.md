@@ -18,8 +18,8 @@ Indice
 
  - [Codigos](#Codigos)
   
-  - [Practica 1: Encender y Apagar LED](#Practica-1:-Encender-y-Apagar-LED)
-  - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2:-Encender-y-Apagar-7-LEDs)
+  - [Practica 1: Encender y Apagar LED](#Practica-1-Encender-y-Apagar-LED)
+  - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2-Encender-y-Apagar-7-LEDs)
 
 
 # Diagramas Electricos
