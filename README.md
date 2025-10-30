@@ -6,4 +6,4 @@
 
 -[ 1. Cicuitos Eléctricos](WorkBooks-BK/Arduinobasics/ArduinoOnOff/ArduinoOnOff.md) **(Faltante)**
 
--[ 2. Arduino On/Off](WorkBooks-BK/Arduinobasics/ArduinoOnOff/ArduinoOnOff.md)
+-[ 2. Arduino On/Off](/Arduinobasics/ArduinoOnOff/ArduinoOnOff.md)
