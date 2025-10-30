@@ -62,4 +62,89 @@ Indice
 
 ---
 
+## Practica 5: Encender y Apagar LED con boton
 
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P5_ArduinoONOff.jpg" width="200%"><br>
+      <strong><em>Figura 5</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 6: Semaforo Arduino
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P6_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Figura 6</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 7: Control de brillo por Software
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P7_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Figura 7</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 8: Control de brillo por Hardware
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P8_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Figura 8</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 9: Compuertas Lógicas
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P9_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Figura 9</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 10: Binario y Decimal
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P10_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Figura 10.1 - Programa principal</em></strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P10_ArduinoOnOff_Funciones.jpg" width="100%"><br>
+      <strong><em>Figura 10.2 - Funciones</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
