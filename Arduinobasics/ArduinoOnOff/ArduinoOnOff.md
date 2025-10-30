@@ -51,6 +51,8 @@ Indice
 
 ## Practica 2: Encender y Apagar 7 LEDs
 
+[Regresar al indice](#Indice)
+
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
@@ -74,6 +76,8 @@ Indice
 
 ## Practica 5: Encender y Apagar LED con boton
 
+[Regresar al indice](#Indice)
+
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
@@ -86,6 +90,8 @@ Indice
 ---
 
 ## Practica 6: Semaforo Arduino
+
+[Regresar al indice](#Indice)
 
 <table align="center">
   <tr>
@@ -100,6 +106,8 @@ Indice
 
 ## Practica 7: Control de brillo por Software
 
+[Regresar al indice](#Indice)
+
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
@@ -112,6 +120,8 @@ Indice
 ---
 
 ## Practica 8: Control de brillo por Hardware
+
+[Regresar al indice](#Indice)
 
 <table align="center">
   <tr>
@@ -126,6 +136,8 @@ Indice
 
 ## Practica 9: Compuertas Lógicas
 
+[Regresar al indice](#Indice)
+
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
@@ -138,6 +150,8 @@ Indice
 ---
 
 ## Practica 10: Binario y Decimal
+
+[Regresar al indice](#Indice)
 
 <table align="center">
   <tr>
