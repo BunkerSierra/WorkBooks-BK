@@ -36,6 +36,8 @@ Indice
 
 ## Practica 1: Encender y Apagar LED
 
+[Regresar al indice](#Indice)
+
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
