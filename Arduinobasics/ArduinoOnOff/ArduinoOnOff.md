@@ -70,7 +70,7 @@ Indice
 
 [Regresar al indice](#Indice)
 
-**Practica 1: Encender y Apagar LED**
+**Practica 3: Contar del 0 al 9**
 
 <table align="center">
   <tr>
