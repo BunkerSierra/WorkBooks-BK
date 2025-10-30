@@ -18,8 +18,16 @@ Indice
 
  - [Codigos](#Codigos)
   
-  - [Practica 1: Encender y Apagar LED](#Practica-1-Encender-y-Apagar-LED)
-  - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2-Encender-y-Apagar-7-LEDs)
+   - [Practica 1: Encender y Apagar LED](#Practica-1-Encender-y-Apagar-LED)
+   - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2-Encender-y-Apagar-7-LEDs)
+   - [Practica 3:](#Practica-3)
+   - [Practica 4:](#Practica-4)
+   - [Practica 5: Encender y Apagar LED con boton](#Practica-5-Encender-y-Apagar-LED-con-boton)
+   - [Practica 6: Semaforo Arduino](#Practica-6-Semaforo-Arduino)
+   - [Practica 7: Control de brillo por Software](#Practica-7-Control-de-brillo-por-Software)
+   - [Practica 8: Control de brillo por Hardware](#Practica-8-Control-de-brillo-por-Hardware)
+   - [Practica 9: Compuertas Lógicas](#Practica-9-Compuertas-Lógicas)
+   - [Practica 10: Binario y Decimal](#Practica-10-Binario-y-Decimal)
 
 
 # Diagramas Electricos
