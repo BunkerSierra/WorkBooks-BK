@@ -32,6 +32,176 @@ Indice
 
 # Diagramas Electricos
 
+## Diagrama 1
+
+[Regresar al indice](#Indice)
+
+**Practica 1: Encender y Apagar LED**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P1_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 1</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 2
+
+[Regresar al indice](#Indice)
+
+**Practica 2: Encender y Apagar 7 LEDs**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P2_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 2</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 3
+
+[Regresar al indice](#Indice)
+
+**Practica 1: Encender y Apagar LED**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P3_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 3</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 4
+
+[Regresar al indice](#Indice)
+
+**Practica 4:**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P3_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 4</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 5
+
+[Regresar al indice](#Indice)
+
+**Practica 5: Encender y Apagar LED con boton**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P5_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 5</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 6
+
+[Regresar al indice](#Indice)
+
+**Practica 6: Semaforo Arduino**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P6_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 6</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 7
+
+[Regresar al indice](#Indice)
+
+**Practica 7: Control de brillo por Software**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P7_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 7</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 8
+
+[Regresar al indice](#Indice)
+
+**Practica 8: Control de brillo por Hardware**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P8_ArduinoOnoff.jpg" width="100%"><br>
+      <strong><em>Diagrama 8</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 9
+
+[Regresar al indice](#Indice)
+
+**Practica 9: Compuertas Lógicas**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P9_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 9</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Diagrama 10
+
+[Regresar al indice](#Indice)
+
+**Practica 10: Binario y Decimal**
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-DE-P10_ArduinoOnOff.jpg" width="100%"><br>
+      <strong><em>Diagrama 10</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
 # Codigos
 
 ## Practica 1: Encender y Apagar LED
