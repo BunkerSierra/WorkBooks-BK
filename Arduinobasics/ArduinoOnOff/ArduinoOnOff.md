@@ -29,6 +29,8 @@ Indice
    - [Practica 9: Compuertas Lógicas](#Practica-9-Compuertas-Lógicas)
    - [Practica 10: Binario y Decimal](#Practica-10-Binario-y-Decimal)
 
+* [`Regresar a la pagina principal`](/README.md)
+
 
 # Diagramas Electricos
 
