@@ -16,7 +16,7 @@ Indice
   - [Diagrama 9](#Diagrama-9)
   - [Diagrama 10](#Diagrama-10)
 
-- [Regresar a la pagina principal](/README.md)
+* [`Regresar a la pagina principal`](/README.md)
  
 # Diagramas Electricos
 
