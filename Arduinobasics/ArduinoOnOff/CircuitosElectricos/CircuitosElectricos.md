@@ -15,6 +15,8 @@ Indice
   - [Diagrama 8](#Diagrama-8)
   - [Diagrama 9](#Diagrama-9)
   - [Diagrama 10](#Diagrama-10)
+
+ [Regresar a la pagina principal](/WorkBooks-BK/README.md)
  
 # Diagramas Electricos
 
