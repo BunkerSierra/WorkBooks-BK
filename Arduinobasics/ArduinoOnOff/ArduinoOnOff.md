@@ -20,7 +20,7 @@ Indice
   
    - [Practica 1: Encender y Apagar LED](#Practica-1-Encender-y-Apagar-LED)
    - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2-Encender-y-Apagar-7-LEDs)
-   - [Practica 3:](#Practica-3)
+   - [Practica 3: Contar del 0 al 9](#Practica-3-Contar-del-0-al-9)
    - [Practica 4:](#Practica-4)
    - [Practica 5: Encender y Apagar LED con boton](#Practica-5-Encender-y-Apagar-LED-con-boton)
    - [Practica 6: Semaforo Arduino](#Practica-6-Semaforo-Arduino)
@@ -240,6 +240,57 @@ Indice
       <img src="/Arduinobasics/ArduinoOnOff/IMG-P2_02-1_ArduinoOnOff.jpg" width="80%"><br>
       <img src="/Arduinobasics/ArduinoOnOff/IMG-P2_02-2_ArduinoOnOff.jpg" width="80%"><br>
       <strong><em>Figura 2.2 - Encender cada LED individualmente</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 3: Contar del 0 al 9
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P3_ArduinoOnOff.jpg" width="110%"><br>
+      <strong><em>Figura 3</em></strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P3_ArduinoOnOff_Funciones1.jpg" width="80%"><br>
+      <strong><em>Figura 3.1 - Funciones 1</em></strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P3_ArduinoOnOff_Funciones2.jpg" width="80%"><br>
+      <strong><em>Figura 3.2 - Funciones 2</em></strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P3_ArduinoOnOff_Funciones3.jpg" width="80%"><br>
+      <strong><em>Figura 3.3 - Funciones 3</em></strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/IMG-P3_ArduinoOnOff_Funciones4.jpg" width="80%"><br>
+      <strong><em>Figura 3.4 - Funciones 4</em></strong>
     </td>
   </tr>
 </table>
