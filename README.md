@@ -10,6 +10,8 @@
 
 -[`2. Arduino On/Off`](/Arduinobasics/ArduinoOnOff/ArduinoOnOff.md)
 
+-[`3. Cicuitos Eléctricos 2`](/Arduinobasics/ArduinoOnOff/CircuitosElectricos/CircuitosElectricos.md) 
+
 # Pictoblox
 
 *Click en los enlaces para acceder*
