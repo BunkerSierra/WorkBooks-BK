@@ -1,4 +1,4 @@
-# Manual de Practicas para Circuitos Electricos
+# Manual de Practicas para Circuitos Electricos 2
 
 Indice
 ===
