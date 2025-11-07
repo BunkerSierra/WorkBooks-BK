@@ -8,7 +8,7 @@ Indice
   - [Diagrama 1](#Diagrama-1)
   - [Diagrama 2](#Diagrama-2)
   - [Diagrama 3](#Diagrama-3)
-  - [Diagrama 4](#Diagrama-4)
+  - [Diagrama 4](#Diagrama-4) ***Practica descontinuada***
   - [Diagrama 5](#Diagrama-5)
   - [Diagrama 6](#Diagrama-6)
   - [Diagrama 7](#Diagrama-7)
@@ -21,7 +21,7 @@ Indice
    - [Practica 1: Encender y Apagar LED](#Practica-1-Encender-y-Apagar-LED)
    - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2-Encender-y-Apagar-7-LEDs)
    - [Practica 3: Contar del 0 al 9](#Practica-3-Contar-del-0-al-9)
-   - [Practica 4:](#Practica-4)
+   - [Practica 4:](#Practica-4) ***Practica descontinuada***
    - [Practica 5: Encender y Apagar LED con boton](#Practica-5-Encender-y-Apagar-LED-con-boton)
    - [Practica 6: Semaforo Arduino](#Practica-6-Semaforo-Arduino)
    - [Practica 7: Control de brillo por Software](#Practica-7-Control-de-brillo-por-Software)
