@@ -3,9 +3,9 @@
 Indice
 ===
 
-- [Diagrama Electrico para conexión de motor DC y Motor Driver L293D](#Diagrama-Electrico-para-conexión-de-motor-DC-y-Motor-Driver-L293D)
+- [Diagramas Electricos](#Diagramas-Electricos)
 
-  - [Diagrama Electrico para Cone](#Diagrama-1)
+  - [Diagrama Electrico para conexión de motor DC y Motor Driver L293D](#Diagrama-Electrico-para-conexión-de-motor-DC-y-Motor-Driver-L293D)
   - [Diagrama 1](#Diagrama-1)
   - [Diagrama 2](#Diagrama-2)
   - [Diagrama 3](#Diagrama-3)
