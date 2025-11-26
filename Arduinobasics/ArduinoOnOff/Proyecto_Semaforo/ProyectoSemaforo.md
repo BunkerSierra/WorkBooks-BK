@@ -116,7 +116,7 @@ Indice
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
-      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P5_ProyectoSemaforo.jpg" width="1000%"><br>
+      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P5_ProyectoSemaforo.jpg" width="100%"><br>
       <strong><em>Figura 5</em></strong>
     </td>
   </tr>
