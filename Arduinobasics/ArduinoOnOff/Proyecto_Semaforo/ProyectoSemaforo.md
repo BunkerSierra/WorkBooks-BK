@@ -22,8 +22,8 @@ Indice
    - [Practica 2:](#Practica-2-Encender-y-Apagar-cada-LED-con-tiempos-asignados-y-3-parpadeos-en-el-Led-Verde)
    - [Practica 3:](#Practica-3-Contador)
    - [Practica 4:](#Practica-4-Prioridad-al-peaton---Encender-led-verde-al-pulsar-3-veces-un-boton) 
-   - [Practica 5:](#Practica-5)
-   - [Practica 6:](#Practica-6)
+   - [Practica 5:](#Practica-5-Secuencia-moderna---Encender-y-apagar-los-leds-con-ciclo-for)
+   - [Practica 6:](#Practica-6-Control-de-tiempo---con-un-potenciometro-aumentar-de-0-a-5-segundos-el-tiempo-de-cada-color-en-el-semaforo)
    - [Practica 7:](#Practica-7)
    - [Practica 8:](#Practica-8)
    - [Practica 9:](#Practica-9)
@@ -109,7 +109,7 @@ Indice
 
 ---
 
-## Practica 5: Secuencia moderna - Encer y apagar los leds con ciclo for
+## Practica 5: Secuencia moderna - Encender y apagar los leds con ciclo for
 
 [Regresar al indice](#Indice)
 
