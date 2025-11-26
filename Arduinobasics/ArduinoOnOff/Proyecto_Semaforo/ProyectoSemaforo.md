@@ -1,4 +1,4 @@
-# Manual de Practicas para Proyecto Elevador
+# Manual de Practicas para Proyecto Semáforo
 
 Indice
 ===
@@ -18,10 +18,10 @@ Indice
 
  - [Codigos](#Codigos)
   
-   - [Practica 1:](#Practica-1)
-   - [Practica 2:](#Practica-2)
-   - [Practica 3:](#Practica-3)
-   - [Practica 4:](#Practica-4) 
+   - [Practica 1:](#Practica-1-Encender-y-apagar-cada-LED-en-secuencias-de-1-segundo)
+   - [Practica 2:](#Practica-2-Encender-y-Apagar-cada-LED-con-tiempos-asignados-y-3-parpadeos-en-el-Led-Verde)
+   - [Practica 3:](#Practica-3-Contador)
+   - [Practica 4:](#Practica-4-Prioridad-al-peaton-Encender-led-verde-al-pulsar-3-veces-un-boton) 
    - [Practica 5:](#Practica-5)
    - [Practica 6:](#Practica-6)
    - [Practica 7:](#Practica-7)
@@ -33,7 +33,7 @@ Indice
 
 # Codigos
 
-## Practica 1: Encender y Apagar LED
+## Practica 1: Encender y apagar cada LED en secuencias de 1 segundo
 
 [Regresar al indice](#Indice)
 
@@ -48,7 +48,7 @@ Indice
 
 ---
 
-## Practica 2: Encender y Apagar 7 LEDs
+## Practica 2: Encender y Apagar cada LED con tiempos asignados y 3 parpadeos en el Led Verde 
 
 [Regresar al indice](#Indice)
 
@@ -61,7 +61,7 @@ Indice
   </tr>
 </table>
 
-## Practica 3: Contar del 0 al 9
+## Practica 3: Contador
 
 [Regresar al indice](#Indice)
 
@@ -85,7 +85,7 @@ Indice
 
 ---
 
-## Practica 4: Encender y Apagar LED con boton
+## Practica 4: Prioridad al peaton - Encender led verde al pulsar 3 veces un boton
 
 [Regresar al indice](#Indice)
 
@@ -109,7 +109,7 @@ Indice
 
 ---
 
-## Practica 5: Semaforo Arduino
+## Practica 5: Secuencia moderna - Encer y apagar los leds con ciclo for
 
 [Regresar al indice](#Indice)
 
@@ -133,7 +133,7 @@ Indice
 
 ---
 
-## Practica 6: Control de brillo por Software
+## Practica 6: Control de tiempo - con un potenciometro aumentar de 0 a 5 segundos el tiempo de cada color en el semaforo
 
 [Regresar al indice](#Indice)
 
