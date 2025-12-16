@@ -49,3 +49,109 @@ Indice
 
 ---
 
+# Codigos
+
+## Practica 1: 
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/ProyectoElevador/IMG-P1_Proyecto_Elevador.jpg" width="100%"><br>
+      <strong><em>Figura 1</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 2: 
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/ProyectoElevador/IMG-P2_Proyecto_Elevador.jpg" width="100%"><br>
+      <strong><em>Figura 2</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 3: 
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/ProyectoElevador/IMG-P3_Proyecto_Elevador.jpg" width="100%"><br>
+      <strong><em>Figura 3</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 4: 
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/ProyectoElevador/IMG-P4_ProyectoElevador.jpg" width="100%"><br>
+      <strong><em>Figura 4</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 5: 
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/ProyectoElevador/IMG-P5_ProyectoElevdor.jpg" width="100%"><br>
+      <strong><em>Figura 5</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 6: 
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/ProyectoElevador/IMG-P6_ProyectoElevador.jpg" width="100%"><br>
+      <strong><em>Figura 6</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 7: 
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/ProyectoElevador/IMG-P7_ProyectoElevador.jpg" width="100%"><br>
+      <strong><em>Figura 7</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
