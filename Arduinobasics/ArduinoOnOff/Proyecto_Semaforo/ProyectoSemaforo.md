@@ -92,7 +92,7 @@ Indice
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
-      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P4_ProyectoSemaforo.jpg" width="110%"><br>
+      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P4_ProyectoSemaforo.JPG" width="110%"><br>
       <strong><em>Figura 4</em></strong>
     </td>
   </tr>
