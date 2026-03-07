@@ -16,7 +16,7 @@
 
 *Click en los enlaces para acceder*
 
--[`1. Proyecto Semaforo`](/Arduinobasics/ArduinoOnOff/ProyectoElevador/ProyectoSemaforo.md) 
+-[`1. Proyecto Semaforo`](/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/ProyectoSemaforo.md) 
 
 -[`2. Proyecto Molino`](/Arduinobasics/ArduinoOnOff/ProyectoElevador/ProyectoElevador.md) 
 
