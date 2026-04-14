@@ -61,31 +61,9 @@ Indice
   </tr>
 </table>
 
-## Practica 3: Contador
-
-[Regresar al indice](#Indice)
-
-<table align="center">
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
-      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P3_ProyectoSemaforo.jpg" width="110%"><br>
-      <strong><em>Figura 3</em></strong>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
-      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P3_ProyectoSemaforo_Setup.jpg" width="80%"><br>
-      <strong><em>Figura 3.1 - Set up</em></strong>
-    </td>
-  </tr>
-</table>
-
 ---
 
-## Practica 4: Prioridad al peaton - Encender led verde al pulsar 3 veces un boton
+## Practica 3: Contador
 
 [Regresar al indice](#Indice)
 
@@ -103,6 +81,30 @@ Indice
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
       <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P4_ProyectoSemaforo_Setup.jpg" width="80%"><br>
       <strong><em>Figura 4.1 - Set up</em></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practica 4: Prioridad al peaton - Encender led verde al pulsar 3 veces un boton
+
+[Regresar al indice](#Indice)
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P3_ProyectoSemaforo_Setup.JPG" width="110%"><br>
+      <strong><em>Figura 3</em></strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
+      <img src="/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/IMG-P3_ProyectoSemaforo.JPG" width="80%"><br>
+      <strong><em>Figura 3.1 - Set up</em></strong>
     </td>
   </tr>
 </table>
