@@ -30,11 +30,11 @@
 
 -[`1. Diagrama Electrico para robots con 2 motores `](/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/ProyectoSemaforo.md) 
 
--[`2. Falkon Power`](/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/ProyectoSemaforo.md) 
+-[`2. Falkon Power`](/Arduinobasics/ArduinoOnOff/FalkonPower/FalkonPower.md) 
 
 -[`3. Falkon Control`](/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/ProyectoSemaforo.md) 
 
--[`4. Orko Power`](/Arduinobasics/ArduinoOnOff/Proyecto_Semaforo/ProyectoSemaforo.md) 
+-[`4. Orko Power`](/Arduinobasics/ArduinoOnOff/OrkoPower/OrkoPower.md) 
 
 # Pictoblox
 
