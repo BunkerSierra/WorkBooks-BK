@@ -9,10 +9,10 @@ Indice
 
  - [Codigos](#Codigos)
   
-   - [Practica 1: Encender y Apagar LED](#Practica-1-Encender-y-Apagar-LED)
-   - [Practica 2: Encender y Apagar 7 LEDs](#Practica-2-Encender-y-Apagar-7-LEDs)
-   - [Practica 3: Contar del 0 al 9](#Practica-3-Contar-del-0-al-9)
-   - [Practica 4:](#Practica-4) ***Practica descontinuada***
+   - [Practica 1: Avanzar 3 segundos](#Practica-1-Encender-y-Apagar-LED)
+   - [Practica 2: Retroceder 3 segundos](#Practica-2-Encender-y-Apagar-7-LEDs)
+   - [Practica 3: Giro Diferencial](#Practica-3-Contar-del-0-al-9)
+   - [Practica 4:](#Practica-4) 
    - [Practica 5: Encender y Apagar LED con boton](#Practica-5-Encender-y-Apagar-LED-con-boton)
    - [Practica 6: Semaforo Arduino](#Practica-6-Semaforo-Arduino)
    - [Practica 7: Control de brillo por Software](#Practica-7-Control-de-brillo-por-Software)
